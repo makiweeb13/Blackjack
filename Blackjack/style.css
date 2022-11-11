@@ -1,0 +1,34 @@
+body {
+    font-family: 'Arial', 'Roboto', sans-serif;
+    background: url(https://us.123rf.com/450wm/yamabikay/yamabikay1705/yamabikay170500262/78602500-poker-table-felt-background-seamless-square-texture-tile-ready-high-resolution-photo-.jpg?ver=6);
+    object-fit: cover;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+} 
+
+h1 {
+    color: rgb(233, 128, 0);
+    font-size: 50px;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    background-color: rgb(233, 128, 0);
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    color: rgb(52, 94, 52);
+    width: 190px;
+    height: 50px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+button:hover {
+    background-color: rgb(219, 160, 72);
+}
+
