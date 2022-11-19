@@ -1,1 +1,3 @@
-# sample_project
+# Blackjack
+
+Coding with Javascript
